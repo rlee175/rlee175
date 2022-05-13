@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rlee175
 - 👀 I’m interested in tranisitioning into a career in technology
-- 🌱 I’m currently learning data analytics (SQL and R) 
-- 💞️ I’m looking to collaborate on data analytic projects
+- 🌱 I’m currently enrolled in Software Development Program.
+- 💞️ I’m looking to collaborate on software development and to network
 - 📫 How to reach me rlee175@wgu.edu
 
 <!---
